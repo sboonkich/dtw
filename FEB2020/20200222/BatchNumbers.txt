@@ -1,0 +1,3 @@
+ParentKey	LineNum	Quantity	BatchNumber	ManufacturerSerialNumber	InternalSerialNumber	ExpiryDate	ManufacturingDate	AddmisionDate	Location	Notes	BaseLineNumber	TrackingNote	TrackingNoteLine
+<-----Do not fill this row------->
+334		2	20191208								1		

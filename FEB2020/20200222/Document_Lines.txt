@@ -1,0 +1,5 @@
+ParentKey	LineNum	ItemCode	ItemDescription	Quantity	UoMEntry	InventoryQuantity	WarehouseCode	UnitPrice	DiscountPercent	TaxCode	PriceAfterVAT	WTLiable	Currency	Rate	SalesPersonCode	AccountCode	ProjectCode	CostingCode	CostingCode2	CostingCode3	CostingCode4	CostingCode5	COGSCostingCode	COGSCostingCode2	COGSCostingCode3	COGSCostingCode4	COGSCostingCode5	U_ITEMVAR	ItemDetails	U_ISS_Remark1	U_ISS_Remark2	U_ISS_Display
+<-----Do not fill this row------->
+161	0	0060	ปุ้มปุ้ยปลาทอด-P10	 1.00 	190	10.00	B05       	180.37	0	OG07		N			37			B02				1	B02	LS1				0060		2E20100780		Y
+334	0	2040	หอยลายทอด40ก.-P10	 1.00 	182	100.00	B15       	2050.47	0	OG07		N			47			B02				1	B02	LS1				2040		2T20100815		Y
+334	1	0580	ปุ้มปุ้ยซอสเข้มข้นพิเศษ#555-P10(15บ.)	 2.00 	2	2.00	B15       	0.00	0	OG07		N			47			B02				2	B02	LS1				0580		2T20100815		Y

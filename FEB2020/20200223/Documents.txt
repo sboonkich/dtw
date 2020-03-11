@@ -1,0 +1,5 @@
+DocNum	DocEntry	DocType	HandWritten	Series	DocObjectCode	DocDate	DocDueDate	TaxDate	CardCode	CardName	U_ISS_VatBranch	U_ISS_BpBrnCode	U_ISS_BpTaxId	NumAtCard	ShipToCode	PayToCode	U_ISS_AddsCity	U_ISS_AddsDistinct	DocCurrency	DocRate	ExtraDays	PaymentGroupCode	DiscountPercent	JournalMemo	Comments	U_ISS_Remark	U_ISS_Remark2	DocumentsOwner	U_ISS_SlpTrrt	U_ISS_SlpArea	SalesPersonCode	U_ISS_SlpVan
+<-----Do not fill this row------->
+128	128	dDocument_Items	tNO	3094	13	20200223	20200223	20200223	C42456	ครอง	00001	00000		2K20100658	SHIP	INV	เพชรบุรี	หนองหญ้าปล้อง               			1	17			0.00			215	BK0511	2K017	43	511
+129	129	dDocument_Items	tNO	3094	13	20200223	20200223	20200223	C42457	ละออง	00001	00000		2K20100659	SHIP	INV	เพชรบุรี	หนองหญ้าปล้อง               			1	17			0.00			215	BK0511	2K017	43	511
+130	130	dDocument_Items	tNO	3094	13	20200223	20200223	20200223	C47544	น้องพุ่ม	00001	00000		2K20100660	SHIP	INV	เพชรบุรี	หนองหญ้าปล้อง               			1	17			0.00			215	BK0511	2K017	43	511

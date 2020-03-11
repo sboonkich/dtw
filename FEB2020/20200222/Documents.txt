@@ -1,0 +1,4 @@
+DocNum	DocEntry	DocType	HandWritten	Series	DocObjectCode	DocDate	DocDueDate	TaxDate	CardCode	CardName	U_ISS_VatBranch	U_ISS_BpBrnCode	U_ISS_BpTaxId	NumAtCard	ShipToCode	PayToCode	U_ISS_AddsCity	U_ISS_AddsDistinct	DocCurrency	DocRate	ExtraDays	PaymentGroupCode	DiscountPercent	JournalMemo	Comments	U_ISS_Remark	U_ISS_Remark2	DocumentsOwner	U_ISS_SlpTrrt	U_ISS_SlpArea	SalesPersonCode	U_ISS_SlpVan
+<-----Do not fill this row------->
+161	161	dDocument_Items	tNO	3094	13	20200222	20200222	20200222	C68925	แอม	00001	00000		2E20100780	SHIP	INV	หนองบัวลำภู	เมืองหนองบัวลำภู			1	17			0.00			215	BK0505	2S031	37	505
+334	334	dDocument_Items	tNO	3094	13	20200222	20200222	20200222	C61819	ร้านบี ดี มาร์ท	00001	00000	3129900188008	2T20100815	SHIP	INV	สระบุรี	แก่งคอย                     			1	17			0.00			215	BK0515	2T013	47	515

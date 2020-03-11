@@ -1,0 +1,8 @@
+ParentKey	LineNum	ItemCode	ItemDescription	Quantity	UoMEntry	InventoryQuantity	WarehouseCode	UnitPrice	DiscountPercent	TaxCode	PriceAfterVAT	WTLiable	Currency	Rate	SalesPersonCode	AccountCode	ProjectCode	CostingCode	CostingCode2	CostingCode3	CostingCode4	CostingCode5	COGSCostingCode	COGSCostingCode2	COGSCostingCode3	COGSCostingCode4	COGSCostingCode5	U_ITEMVAR	ItemDetails	U_ISS_Remark1	U_ISS_Remark2	U_ISS_Display
+<-----Do not fill this row------->
+128	0	0090	ปุ้มปุ้ยราดพริก-P10	 1.00 	182	100.00	B11       	1750.47	0	OG07		N			43			B02				1	B02	LS1				0090		2K20100658		Y
+128	1	0580	ปุ้มปุ้ยซอสเข้มข้นพิเศษ#555-P10(15บ.)	 2.00 	2	2.00	B11       	0.00	0	OG07		N			43			B02				2	B02	LS1				0580		2K20100658		Y
+129	0	0090	ปุ้มปุ้ยราดพริก-P10	 1.00 	182	100.00	B11       	1750.47	0	OG07		N			43			B02				1	B02	LS1				0090		2K20100659		Y
+129	1	0580	ปุ้มปุ้ยซอสเข้มข้นพิเศษ#555-P10(15บ.)	 2.00 	2	2.00	B11       	0.00	0	OG07		N			43			B02				2	B02	LS1				0580		2K20100659		Y
+130	0	0090	ปุ้มปุ้ยราดพริก-P10	 1.00 	182	100.00	B11       	1750.47	0	OG07		N			43			B02				1	B02	LS1				0090		2K20100660		Y
+130	1	0580	ปุ้มปุ้ยซอสเข้มข้นพิเศษ#555-P10(15บ.)	 2.00 	2	2.00	B11       	0.00	0	OG07		N			43			B02				2	B02	LS1				0580		2K20100660		Y

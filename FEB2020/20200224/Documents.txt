@@ -1,0 +1,7 @@
+DocNum	DocEntry	DocType	HandWritten	Series	DocObjectCode	DocDate	DocDueDate	TaxDate	CardCode	CardName	U_ISS_VatBranch	U_ISS_BpBrnCode	U_ISS_BpTaxId	NumAtCard	ShipToCode	PayToCode	U_ISS_AddsCity	U_ISS_AddsDistinct	DocCurrency	DocRate	ExtraDays	PaymentGroupCode	DiscountPercent	JournalMemo	Comments	U_ISS_Remark	U_ISS_Remark2	DocumentsOwner	U_ISS_SlpTrrt	U_ISS_SlpArea	SalesPersonCode	U_ISS_SlpVan
+<-----Do not fill this row------->
+110	110	dDocument_Items	tNO	3094	13	20200224	20200224	20200224	C50604	วีระพงษ์	00001	00000		2F20100683	SHIP	INV	นครราชสีมา	ปากช่อง                     			1	17			0.00			215	BK0506	2F102	38	506
+144	144	dDocument_Items	tNO	3094	13	20200224	20200224	20200224	C40155	สหกรณ์ตำรวจพลร่ม	00001	00000		2K20100666	SHIP	INV	เพชรบุรี	ชะอำ                        			30	23			0.01			215	BK0511	2K013	43	511
+149	149	dDocument_Items	tNO	3094	13	20200224	20200224	20200224	C41844	กิมลั้ง	00001	00000		2K20100671	SHIP	INV	เพชรบุรี	บ้านแหลม                    			1	17			0.00			215	BK0511	2K012	43	511
+152	152	dDocument_Items	tNO	3094	13	20200224	20200224	20200224	C41855	ป้าพิน	00001	00000		2K20100674	SHIP	INV	เพชรบุรี	บ้านแหลม                    			1	17			0.00			215	BK0511	2K012	43	511
+154	154	dDocument_Items	tNO	3094	13	20200224	20200224	20200224	C61142	อุดมวัฒนามินิมาร์ท	00001	00000		2K20100676	SHIP	INV	เพชรบุรี	บ้านแหลม                    			1	17			0.00			215	BK0511	2K012	43	511

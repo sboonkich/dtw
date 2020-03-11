@@ -1,0 +1,13 @@
+ParentKey	LineNum	Quantity	BatchNumber	ManufacturerSerialNumber	InternalSerialNumber	ExpiryDate	ManufacturingDate	AddmisionDate	Location	Notes	BaseLineNumber	TrackingNote	TrackingNoteLine
+<-----Do not fill this row------->
+110		2	20200122								1		
+144		100	20200225								0		
+144		100	20200225								1		
+144		300	20200121								3		
+144		10	20200225								4		
+144		12	20200121								5		
+149		100	20200121								0		
+149		2	20200121								2		
+149		2	20200121								3		
+152		2	20200121								1		
+154		2	20200121								1		
